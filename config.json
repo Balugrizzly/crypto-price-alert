@@ -1,0 +1,6 @@
+{
+  "coins": [
+      {"ticker":"dash", "price":0.03, "trigger": "above"},
+      {"ticker":"ltc", "price":0.4, "trigger": "below"}
+  ]
+}
